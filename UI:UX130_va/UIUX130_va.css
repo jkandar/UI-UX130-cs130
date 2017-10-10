@@ -1,0 +1,190 @@
+img{
+
+}
+
+h1{
+margin-top: 100px;
+font-family: brown;
+font-style: Bold;
+font-size: 64px;
+line-height: 94px;
+text-align: Center;
+}
+
+h2{
+margin-left: 320px;
+margin-right: 320px;
+margin-top: -80px;
+font-family: brown;
+font-style: thin;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+}
+
+p{
+margin-left: 35px;
+margin-right: 35px;
+margin-top: -5px;
+font-family: brown;
+font-style: thin;
+font-size: 14px;
+line-height: 22px;
+text-align: left;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px underline black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 900px;
+    height: 585px;
+    top: -1px;
+    left: 385px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 0px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.link1{
+font-family: brown;
+font-style: regular;
+font-size: 24px;
+line-height: 60px;
+text-align: Center;
+height:145px;
+width:380px;
+background: #D3D3D3;
+position: absolute;
+top:380px;
+left:100px;
+border-radius: 15px;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 0px underline black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 900px;
+    height: 585px;
+    top: -149px;
+    left: 366px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 0px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.link2{
+font-family: brown;
+font-style: regular;
+font-size: 24px;
+line-height: 60px;
+text-align: Center;
+height:145px;
+width:380px;
+background: #D3D3D3;
+position: absolute;
+top:530px;
+left:100px;
+border-radius: 15px;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 900px;
+    height: 585px;
+    top: -1px;
+    left: 385px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.link3{
+font-family: brown;
+font-style: regular;
+font-size: 24px;
+line-height: 60px;
+text-align: Center;
+height:145px;
+width:380px;
+background: #D3D3D3;
+position: absolute;
+top:680px;
+left:100px;
+border-radius: 15px;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 900px;
+    height: 585px;
+    top: -1px;
+    left: 385px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.link4{
+font-family: brown;
+font-style: regular;
+font-size: 24px;
+line-height: 60px;
+text-align: Center;
+height:145px;
+width:380px;
+background: #D3D3D3;
+position: absolute;
+top:830px;
+left:100px;
+border-radius: 15px;
+}
